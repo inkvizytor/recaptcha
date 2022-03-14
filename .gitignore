@@ -2,3 +2,7 @@
 composer.phar
 composer.lock
 .DS_Store
+.idea/modules.xml
+.idea/php.xml
+.idea/recaptcha.iml
+.idea/vcs.xml
